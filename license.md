@@ -148,4 +148,4 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Apex Legends · Actualizado 2026-11-14 · Compartido bajo licencia MIT*
+*Apex Legends · Actualizado 2026-11-15 · Compartido bajo licencia MIT*
